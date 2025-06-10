@@ -20,7 +20,4 @@ This repository contains the implementation and analysis of heap data structures
 - Python 3.x installed.
 - No external libraries are required for running the code.
 
-## Usage
 
-### 1. **Heapsort**
-Run the `heapsort.py` file to sort an array using the Heapsort algorithm.
